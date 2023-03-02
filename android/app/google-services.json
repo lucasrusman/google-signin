@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687858484622",
+    "project_id": "flutter--signin-7b139",
+    "storage_bucket": "flutter--signin-7b139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687858484622:android:77584e63373b2acf6e10df",
+        "android_client_info": {
+          "package_name": "com.lucasrusman.auth_google_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687858484622-2vmqvtk9pmimons6c23gsq65m8cop82a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjL9Z-lA04Eh0KmEnivtRqQ2MIYiqMHpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687858484622-2vmqvtk9pmimons6c23gsq65m8cop82a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
